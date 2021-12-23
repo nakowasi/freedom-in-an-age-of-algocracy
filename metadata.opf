@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3aacb038-8fd2-465d-954d-e7819fa045d2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3aacb038-8fd2-465d-954d-e7819fa045d2</dc:identifier>
+        <dc:title>Freedom in an Age of Algocracy - Oxford Handbooks</dc:title>
+        <dc:creator opf:file-as="Danaher, Oxford Handbooks by John" opf:role="aut">Oxford Handbooks by John Danaher (z-lib.org)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-14T23:29:12+00:00</dc:date>
+        <dc:description>There is a growing sense of unease around algorithmic modes of governance (“algocracies”) and their impact on freedom. Contrary to the emancipatory utopianism of digital enthusiasts, many now fear that the rise of algocracies will undermine our freedom. Nevertheless, there has been some struggle to explain exactly how this will happen. This chapter tries to address the shortcomings in the existing discussion by arguing for a broader conception of freedom as well as a broader conception of algocracy. Broadening the focus in this way enables one to see how algorithmic governance can be both emancipatory and enslaving, and provides a framework for future development and activism around the creation of this technology.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>There is a growing sense of unease around algorithmic modes of governance (“algocracies”) and their impact on freedom. Contrary to the emancipatory utopianism of digital enthusiasts</dc:subject>
+        <dc:subject>many now fear that the rise of algocracies will undermine our freedom. Nevertheless</dc:subject>
+        <dc:subject>there has been some struggle to explain exactly how this will happen. This chapter tries to address the shortcomings in the existing discussion by arguing for a broader conception of freedom as well as a broader conception of algocracy. Broadening the focus in this way enables one to see how algorithmic governance can be both emancipatory and enslaving</dc:subject>
+        <dc:subject>and provides a framework for future development and activism around the creation of this technology.</dc:subject>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
